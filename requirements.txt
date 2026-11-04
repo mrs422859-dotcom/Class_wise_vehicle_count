@@ -1,0 +1,6 @@
+streamlit>=1.50
+ultralytics
+opencv-python-headless
+imageio-ffmpeg
+lapx
+pandas
